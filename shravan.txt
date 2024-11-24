@@ -1,0 +1,4 @@
+cat 
+git status
+touch 
+good morning
